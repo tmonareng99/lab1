@@ -176,3 +176,4 @@ string::size_type Screen::row() const
 	return (cursor_ + width_)/width_;
 }
 
+ //string class member used to initialise a screen by copying _screen content to local 
